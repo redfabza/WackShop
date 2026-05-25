@@ -443,7 +443,7 @@ Tab2:NewButton("🟠 ฆ่าบอทออร่า", function() loadstring(g
 Tab2:NewButton("🟠 Hitbox", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/redfabza/Hitbox/refs/heads/main/Hitbox"))() end)  
 
 local Tab3 = WindowFunctions:NewTab("เครื่องมือ", "🛠️")  
-Tab3:NewButton("🟡 เพิ่มความลื่น", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/wackshopr-tech/script-roblox-all/refs/heads/main/SCRIPT-ALL-BY-WACK-SHOP/Boots-fps/Boots-fps.lua"))() end)  
+Tab3:NewButton("🟡 เพิ่มความลื่น", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/redfabza/FPS-BOOST/refs/heads/main/FPS_BOOST.lua"))() end)  
 Tab3:NewButton("🟡 แมพสว่าง", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/redfabza/Bright-map/refs/heads/main/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87"))() end)  
 Tab3:NewButton("🟡 เสกของ", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/redfabza/Earth-profile-/refs/heads/main/%E0%B9%80%E0%B8%AA%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87"))() end)  
 Tab3:NewButton("🟡 แป้นพิมพ์", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt"))() end)  
